@@ -1,4 +1,4 @@
-# membership
+# SAC Membership Management
 A Spring Boot REST API on RDS MySQL backend with an Angular 1 front end for Shrewsbury Anglers Club membership management
 
 TODO - pagante the members from the server side. Port to Angular 2 or Vue.js
